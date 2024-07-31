@@ -274,9 +274,5 @@ Hint: Be sure to declare and initialize the total variable before the iterations
 Complete Exercise 15 in the space below:
 */
 
-array.forEach((total) => {
-    
-});
 
-
-console.log('Exercise 15 result:\n', total);
+// ! Got very confused here but might be end of the day fatigue again
